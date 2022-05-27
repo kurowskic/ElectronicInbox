@@ -7,7 +7,7 @@
     <groupId>com.ctk</groupId>
     <artifactId>ElectronicInbox</artifactId>
     <packaging>war</packaging>
-    <version>2022.140.1</version>
+    <version>2022.147.1</version>
     <name>ElectronicInbox</name>
 
     <url>http://maven.apache.org</url>
